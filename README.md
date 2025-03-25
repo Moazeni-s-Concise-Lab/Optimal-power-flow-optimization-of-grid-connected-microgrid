@@ -9,4 +9,5 @@ Renewable Energy Integration: Tailored solutions for incorporating renewable sou
 This project utilizes the OPTI optimization toolbox (https://github.com/jonathancurrie/OPTI), a powerful tool for solving linear, nonlinear, and mixed-integer optimization problems.
 
 **Paper**
+Putri, S. A., Ge, X., & Khazaei, J. (2024). Economic Dispatch and Power Flow Analysis for Microgrids. arXiv preprint arXiv:2411.19279.
 https://arxiv.org/abs/2411.19279
